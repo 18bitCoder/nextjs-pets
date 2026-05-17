@@ -111,7 +111,7 @@ const CreatePage = () => {
             <input id="version" type="hidden" name="version" />
             <input id="signature" type="hidden" name="signature" />
             <button style={{ opacity: isFormLocked ? ".1" : "1" }} id="submit-btn" className="our-btn">
-              Add New Pet
+              Submit Changes
             </button>
           </form>
         </div>
